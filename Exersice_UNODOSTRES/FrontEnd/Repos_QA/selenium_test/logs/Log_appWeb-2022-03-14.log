@@ -1,0 +1,69 @@
+
+15:03:45.207 [main] INFO  Test.Firefox.TestAddUser - Inicia Instancia WebDriver
+15:03:46.924 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+15:03:48.144 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+15:03:50.646 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+15:03:50.678 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+15:03:50.688 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+15:04:19.409 [main] INFO  Test.Firefox.TestUpdateUser - Inicia Instancia WebDriver
+15:04:21.961 [main] INFO  Test.Firefox.TestUpdateUser - Inicia Sesión
+15:04:25.213 [main] INFO  Test.Firefox.TestUpdateUser - A dado click a Menù Users
+15:04:28.838 [main] INFO  Test.Firefox.TestUpdateUser - Test update user Complete
+15:04:29.132 [main] INFO  Test.Firefox.TestUpdateUser - Verificación Exitosa
+15:04:29.143 [main] INFO  Test.Firefox.TestUpdateUser - Cierra Sesion 
+15:04:56.422 [main] INFO  Test.Firefox.TestDeleteUser - Inicia Instancia WebDriver
+15:04:58.290 [main] INFO  Test.Firefox.TestDeleteUser - Inicia Sesión
+15:04:59.991 [main] INFO  Test.Firefox.TestDeleteUser - A dado click a Menù Users
+15:05:03.150 [main] INFO  Test.Firefox.TestDeleteUser - Test delete user Complete
+15:05:03.196 [main] INFO  Test.Firefox.TestDeleteUser - Verificación Exitosa
+15:05:03.207 [main] INFO  Test.Firefox.TestDeleteUser - Cierra Sesion 
+15:05:39.672 [main] INFO  Test.Firefox.TestSmoke - Inicia Instancia WebDriver
+15:05:41.622 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+15:05:49.728 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+15:05:49.971 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+15:06:33.127 [main] INFO  Test.Firefox.TestLogin - Inicia Instancia WebDriver
+15:06:34.861 [main] INFO  Test.Firefox.TestLogin - Inicia Sesión
+15:06:34.895 [main] INFO  Test.Firefox.TestLogin - Verificación Exitosa
+16:38:24.138 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+16:39:24.626 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+16:39:29.768 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+16:41:15.635 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+16:41:16.942 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+16:42:17.139 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+16:45:41.504 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+16:45:42.732 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+16:48:31.402 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+16:50:47.132 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+16:51:00.639 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+16:51:01.862 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+11:59:30.832 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+11:59:31.926 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+11:59:33.779 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+11:59:33.829 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:00:29.332 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:00:30.624 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:06:17.137 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:06:18.370 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:06:55.831 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+12:54:32.976 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:54:34.840 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:55:25.703 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:55:27.177 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:55:29.451 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+12:55:29.502 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:56:37.259 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:56:38.643 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:56:40.796 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+12:56:40.832 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+12:56:40.843 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+13:14:45.600 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+13:14:46.966 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+13:14:47.160 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+13:16:03.406 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+13:16:04.845 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+13:16:05.058 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+13:16:49.799 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+13:16:51.473 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+13:18:34.460 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+13:18:46.916 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+13:18:48.292 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser

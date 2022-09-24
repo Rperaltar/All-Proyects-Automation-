@@ -1,0 +1,15 @@
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\bin\Debug\net6.0\App_Curso_CSharp.exe
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\bin\Debug\net6.0\App_Curso_CSharp.deps.json
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\bin\Debug\net6.0\App_Curso_CSharp.runtimeconfig.json
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\bin\Debug\net6.0\App_Curso_CSharp.dll
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\bin\Debug\net6.0\App_Curso_CSharp.pdb
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\App_Curso_CSharp.csproj.AssemblyReference.cache
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\App_Curso_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\App_Curso_CSharp.AssemblyInfoInputs.cache
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\App_Curso_CSharp.AssemblyInfo.cs
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\App_Curso_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\App_Curso_CSharp.dll
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\refint\App_Curso_CSharp.dll
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\App_Curso_CSharp.pdb
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\App_Curso_CSharp.genruntimeconfig.cache
+C:\Users\HP-PAV\source\repos\App_Curso_CSharp\obj\Debug\net6.0\ref\App_Curso_CSharp.dll

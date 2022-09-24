@@ -1,0 +1,16 @@
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/GETModel/ModelonboardingObtenerFirmaDigitalid.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/POSTModel/ModelVerificarSMS.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/Implements/GETimpl.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/POSTModel/ModelVerificarEmail.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/POSTModel/ModelVerificarPhone.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/Implements/POSTimpl.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/GETModel/ModelobtenerAplicacionImages.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/POSTModel/ModelOnboardingINE.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/Interface/GETInt.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/Interface/POSTInt.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/GETModel/ModelobtenerFirmaArchivo.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/POSTModel/ModelVerificarPassword.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/POSTModel/ModelinicioSesion.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/POSTModel/ModelSalirSesion.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/GETModel/ModelobtenerAplicacionid.java
+/Users/roberto/Documents/TodoBunsan/Proyecto_Panzura/Pruebas_Automatizadas/BackEnd/Apis_BackEnd_v1/src/test/java/Test/ModelCollection/GETModel/ModelCodPostal.java

@@ -1,0 +1,14 @@
+
+
+{
+
+    "login":{
+        
+        "E-MAIL":"robertocarlosperalta@hotmail.com",
+        "PASSWD":"SCOM10MA111"  
+    },
+    "SEND":{
+        "API_INICIAR_SESION":"http://54.173.86.66:4000/api/v1/sign_in",
+        "API_CODIGO_POSTAL":"http://54.173.86.66:4000/api/v1/address?zipcode=54743"
+  }
+}

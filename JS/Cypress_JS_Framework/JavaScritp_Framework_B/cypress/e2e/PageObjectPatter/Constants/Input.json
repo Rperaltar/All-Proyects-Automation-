@@ -1,0 +1,38 @@
+{
+
+    "login":{
+        
+        "EMAIL":"robertocarlosperalta@hotmail.com",
+        "PASSWD":"SCOM10MA111"  
+    },
+
+    "solicitud":{
+    
+        "NOMBRE":"Roberto",
+        "SEGUNDO_NOMBRE":"Carlos",
+        "APELLIDO_PATERNO":"Peralta",
+        "APELLIDO_MATERNO":"Rodriguez"
+    },
+
+    "sector":{
+
+        "PRIMARIO":"primario",
+        "SECUNDARIO":"",
+        "TERCIARIO":"",
+        "NOMBRE_COMERCIAL":"TESTQAGIRO"
+    },
+
+    "empresa":{
+        
+        "DETALLE":"comercial"
+        
+    },
+
+    "url":{
+        
+        "PATH_ASHOT":"./cypress/integration/ScreenShots/",
+        "FILE":"TestLogin_"    
+    }
+
+    
+  }

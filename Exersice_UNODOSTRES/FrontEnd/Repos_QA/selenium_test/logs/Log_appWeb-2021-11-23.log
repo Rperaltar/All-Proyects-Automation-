@@ -1,0 +1,70 @@
+15:58:03.897 [main] INFO  Test.Firefox.TestSmoke - Inicia Instancia WebDriver
+15:58:05.751 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+15:58:15.770 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+15:58:16.024 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+11:49:43.302 [main] INFO  TestMethodsAddUser - Inicia Instancia WebDriver
+11:52:06.426 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+11:53:09.121 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+11:55:17.216 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+11:56:05.036 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+11:57:12.733 [main] INFO  Test.Firefox.TestAddUser - Inicia Instancia WebDriver
+11:57:14.648 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+11:57:15.768 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+11:57:18.662 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+11:57:18.705 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+11:57:18.715 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:02:18.190 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:02:19.505 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:02:21.191 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+12:02:21.245 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:04:02.808 [main] INFO  Test.Firefox.TestDeleteUser - Inicia Instancia WebDriver
+12:04:04.707 [main] INFO  Test.Firefox.TestDeleteUser - Inicia Sesión
+12:04:05.996 [main] INFO  Test.Firefox.TestDeleteUser - A dado click a Menù Users
+12:04:09.650 [main] INFO  Test.Firefox.TestDeleteUser - Test delete user Complete
+12:04:09.685 [main] INFO  Test.Firefox.TestDeleteUser - Verificación Exitosa
+12:04:09.696 [main] INFO  Test.Firefox.TestDeleteUser - Cierra Sesion 
+12:05:45.735 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:06:14.284 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:07:28.890 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:07:29.991 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:07:32.459 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+12:07:32.499 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+12:07:32.510 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:08:29.295 [main] INFO  Test.Firefox.TestUpdateUser - Inicia Instancia WebDriver
+12:08:31.087 [main] INFO  Test.Firefox.TestUpdateUser - Inicia Sesión
+12:08:32.373 [main] INFO  Test.Firefox.TestUpdateUser - A dado click a Menù Users
+12:08:34.732 [main] INFO  Test.Firefox.TestUpdateUser - Test update user Complete
+12:08:35.348 [main] INFO  Test.Firefox.TestUpdateUser - Verificación Exitosa
+12:08:35.358 [main] INFO  Test.Firefox.TestUpdateUser - Cierra Sesion 
+12:09:40.322 [main] INFO  Test.Firefox.TestDeleteUser - Inicia Instancia WebDriver
+12:09:42.213 [main] INFO  Test.Firefox.TestDeleteUser - Inicia Sesión
+12:09:43.517 [main] INFO  Test.Firefox.TestDeleteUser - A dado click a Menù Users
+12:09:47.363 [main] INFO  Test.Firefox.TestDeleteUser - Test delete user Complete
+12:09:47.400 [main] INFO  Test.Firefox.TestDeleteUser - Verificación Exitosa
+12:09:47.411 [main] INFO  Test.Firefox.TestDeleteUser - Cierra Sesion 
+12:10:44.148 [main] INFO  Test.Firefox.TestSmoke - Inicia Instancia WebDriver
+12:10:45.879 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+12:10:54.771 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+12:10:54.866 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+12:27:27.415 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+12:27:36.379 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+12:27:36.660 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:51:09.484 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:52:41.457 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:53:50.712 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:54:54.411 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+13:55:03.468 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+13:55:03.733 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:55:29.949 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+13:55:39.290 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+13:55:39.570 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:56:53.634 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+13:57:02.891 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+13:57:02.942 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:57:51.230 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+13:58:00.613 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+13:58:00.889 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:56:11.892 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+13:56:21.645 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+13:56:21.916 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+16:34:43.011 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión

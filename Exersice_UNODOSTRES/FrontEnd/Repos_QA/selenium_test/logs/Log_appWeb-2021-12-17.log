@@ -1,0 +1,65 @@
+12:17:32.184 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:17:34.947 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+12:17:34.985 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+12:17:34.996 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:24:13.131 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:24:28.942 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:24:33.267 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+12:24:33.303 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+12:24:33.314 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+12:49:00.974 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+12:49:03.847 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+12:49:06.957 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+12:49:06.998 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+12:49:07.010 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+17:20:02.310 [main] INFO  PageModelMethods.PageMethodsLogin - Inicia Sesión
+17:20:02.355 [main] INFO  PageModelMethods.PageMethodsLogin - Verificación Exitosa
+17:20:02.370 [main] INFO  PageModelMethods.PageMethodsLogin - Cierra Sesion 
+17:20:57.233 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+17:20:59.057 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+17:21:01.340 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+17:21:01.378 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+17:21:01.389 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+17:22:59.122 [main] INFO  PageModelMethods.PageMethodsUpdateUser - Inicia Sesión
+17:23:00.985 [main] INFO  PageModelMethods.PageMethodsUpdateUser - A dado click a Menù Users
+17:23:06.011 [main] INFO  PageModelMethods.PageMethodsUpdateUser - Test update user Complete
+17:23:06.304 [main] INFO  PageModelMethods.PageMethodsUpdateUser - Verificación Exitosa
+17:23:06.314 [main] INFO  PageModelMethods.PageMethodsUpdateUser - Cierra Sesion 
+17:23:41.839 [main] INFO  PageModelMethods.PageMethodsDeleteUser - Inicia Sesión
+17:23:43.367 [main] INFO  PageModelMethods.PageMethodsDeleteUser - A dado click a Menù Users
+17:23:47.221 [main] INFO  PageModelMethods.PageMethodsDeleteUser - Test delete user Complete
+17:23:47.256 [main] INFO  PageModelMethods.PageMethodsDeleteUser - Verificación Exitosa
+17:23:47.267 [main] INFO  PageModelMethods.PageMethodsDeleteUser - Cierra Sesion 
+17:24:11.595 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+17:24:22.424 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+17:24:22.703 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+13:14:57.797 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+13:15:07.960 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+13:16:52.109 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+13:17:02.265 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+13:18:23.323 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+13:18:33.455 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+13:23:39.499 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+13:23:49.660 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+15:10:06.015 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+15:10:16.166 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+15:11:49.533 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+15:11:50.589 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser
+15:11:52.682 [main] INFO  Test.Firefox.TestAddUser - Test addUser Complete
+15:11:52.726 [main] INFO  Test.Firefox.TestAddUser - Verificación Exitosa
+15:11:52.738 [main] INFO  Test.Firefox.TestAddUser - Cierra Sesion 
+15:13:25.593 [main] INFO  PageModelMethods.PageMethodsUpdateUser - Inicia Sesión
+15:13:26.651 [main] INFO  PageModelMethods.PageMethodsUpdateUser - A dado click a Menù Users
+15:13:28.899 [main] INFO  PageModelMethods.PageMethodsUpdateUser - Test update user Complete
+15:13:29.176 [main] INFO  PageModelMethods.PageMethodsUpdateUser - Verificación Exitosa
+15:13:29.188 [main] INFO  PageModelMethods.PageMethodsUpdateUser - Cierra Sesion 
+15:14:02.698 [main] INFO  PageModelMethods.PageMethodsDeleteUser - Inicia Sesión
+15:14:03.704 [main] INFO  PageModelMethods.PageMethodsDeleteUser - A dado click a Menù Users
+15:14:06.616 [main] INFO  PageModelMethods.PageMethodsDeleteUser - Test delete user Complete
+15:14:06.674 [main] INFO  PageModelMethods.PageMethodsDeleteUser - Verificación Exitosa
+15:14:06.703 [main] INFO  PageModelMethods.PageMethodsDeleteUser - Cierra Sesion 
+15:14:27.883 [main] INFO  Test.Firefox.TestSmoke - Inicia Sesión
+15:14:34.320 [main] INFO  Test.Firefox.TestSmoke - Test Smoke Complete
+15:14:34.578 [main] INFO  Test.Firefox.TestSmoke - Cierra Sesion 
+15:21:56.141 [main] INFO  Test.Firefox.TestAddUser - Inicia Sesión
+15:21:57.204 [main] INFO  Test.Firefox.TestAddUser - A dado click al menu AddUser

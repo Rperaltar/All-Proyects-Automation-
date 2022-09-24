@@ -1,0 +1,16 @@
+Test/ModelCollection/GETModel/ModelobtenerAplicacionImages.class
+Test/Interface/GETInt.class
+Test/ModelCollection/POSTModel/ModelVerificarPhone.class
+Test/ModelCollection/GETModel/ModelCodPostal.class
+Test/ModelCollection/POSTModel/ModelVerificarEmail.class
+Test/ModelCollection/POSTModel/ModelVerificarSMS.class
+Test/Implements/POSTimpl.class
+Test/ModelCollection/POSTModel/ModelOnboardingINE.class
+Test/ModelCollection/GETModel/ModelobtenerAplicacionid.class
+Test/ModelCollection/POSTModel/ModelVerificarPassword.class
+Test/ModelCollection/POSTModel/ModelSalirSesion.class
+Test/Implements/GETimpl.class
+Test/Interface/POSTInt.class
+Test/ModelCollection/POSTModel/ModelinicioSesion.class
+Test/ModelCollection/GETModel/ModelonboardingObtenerFirmaDigitalid.class
+Test/ModelCollection/GETModel/ModelobtenerFirmaArchivo.class

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Test.TestLogin
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 10.609 s <<< FAILURE! - in Test.TestLogin
+Test.TestLogin.setUp  Time elapsed: 0.366 s  <<< FAILURE!
+java.net.MalformedURLException: no protocol: http//localhost:4723/wd/hub
+	at Test.TestLogin.setUp(TestLogin.java:31)
+

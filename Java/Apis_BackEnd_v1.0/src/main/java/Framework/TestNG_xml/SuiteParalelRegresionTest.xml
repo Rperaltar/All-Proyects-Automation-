@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Colección en Paralelo" verbose="1" parallel="tests">
+
+  <!-- Suite ### GET ###-->
+  <test name="CodigoPostal">
+    <parameter name="number-of-times" value="10"/>
+    <classes>
+      <class name= "Test.Collection.GETRequest.TestAPICodPostal"/>
+    </classes>
+  </test>
+  <test name="obtenerAplicacionid">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.GETRequest.TestAPIobtenerAplicacionid"/>
+    </classes>
+  </test>
+  <test name="obtenerAplicacionImages">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.GETRequest.TestAPIobtenerAplicacionImages"/>
+    </classes>
+  </test>
+  <test name="TestAPIobtenerFirmaArchivo">
+    <parameter name="number-of-times" value="20"/>
+    <classes>
+      <class name= "Test.Collection.GETRequest.TestAPIobtenerFirmaArchivo"/>
+    </classes>
+  </test>
+  <test name="OnboardingObtenerFirmaDigitalid">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.GETRequest.TestAPIonboardingObtenerFirmaDigitalid"/>
+    </classes>
+  </test>
+
+  <!-- Suite ### POST ###-->
+  <test name="InicioSesion">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.POSTRequest.TestInicioSesion"/>
+    </classes>
+  </test>
+  <test name="SalirSesion">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.POSTRequest.TestSalirSesion"/>
+    </classes>
+  </test>
+  <test name="VerificarEmail">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.POSTRequest.TestInicioVerificaEmail"/>
+    </classes>
+  </test>
+  <test name="VerificarPassword ">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.POSTRequest.TestInicioVerificaPassword"/>
+    </classes>
+  </test>
+  <test name="VerificarPhone">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.POSTRequest.TestInicioVerificaPhone"/>
+    </classes>
+  </test>
+  <test name="VerificarSMS">
+    <parameter name="number-of-times" value="30"/>
+    <classes>
+      <class name= "Test.Collection.POSTRequest.TestInicioVerificaSMS"/>
+    </classes>
+  </test>
+
+</suite> <!-- Suite -->

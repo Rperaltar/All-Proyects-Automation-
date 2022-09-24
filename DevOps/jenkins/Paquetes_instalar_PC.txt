@@ -1,0 +1,40 @@
+Microsoft Windows [Versión 10.0.19042.928]
+(c) Microsoft Corporation. Todos los derechos reservados.
+
+C:\Users\CONSULTOR>mvn -v
+Apache Maven 3.6.3 (cecedd343002696d0abb50b32b541b8a6ba2883f)
+Maven home: C:\Program Files\apache-maven-3.6.3\bin\..
+Java version: 1.8.0_271, vendor: Oracle Corporation, runtime: C:\Program Files\Java\jdk1.8.0_271\jre
+Default locale: es_MX, platform encoding: Cp1252
+OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
+
+
+C:\Users\CONSULTOR>newman -v
+5.2.2
+
+C:\Users\CONSULTOR>newman -version
+5.2.2
+
+C:\Users\CONSULTOR>node -v
+v14.15.4
+
+C:\Users\CONSULTOR>npm install -g npm
+C:\Users\CONSULTOR\AppData\Roaming\npm\npm -> C:\Users\CONSULTOR\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+C:\Users\CONSULTOR\AppData\Roaming\npm\npx -> C:\Users\CONSULTOR\AppData\Roaming\npm\node_modules\npm\bin\npx-cli.js
++ npm@7.9.0
+added 252 packages from 909 contributors in 12.919s
+
+C:\Users\CONSULTOR>npm i -g npm-check-updates
+npm WARN deprecated har-validator@5.1.5: this library is no longer supported
+npm WARN deprecated request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142
+
+added 314 packages, and audited 315 packages in 21s
+
+29 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+C:\Users\CONSULTOR>npm -v
+7.9.0
+

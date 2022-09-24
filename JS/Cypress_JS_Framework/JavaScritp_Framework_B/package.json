@@ -1,0 +1,24 @@
+{
+  "name": "cypressworkapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "dateformat": "^5.0.2",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "@testing-library/cypress": "^7.0.1",
+    "cypress": "^10.7.0",
+    "mocha": "^7.2.0",
+    "mochawesome": "6.1.1",
+    "mochawesome-merge": "4.1.0",
+    "mochawesome-report-generator": "5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
